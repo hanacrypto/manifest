@@ -10,6 +10,6 @@
 ## Additions
 
 * Voluntarily leaving Hanafjedle Cryptominers your are imbursed with the following:
-** Value equal to NOK 10.000,- (paid either in crypto, hardware or NOK - choosen by remaining members) 
-** One equal share of eventual common holdings in cryptocurrencies
+  * Value equal to NOK 10.000,- (paid either in crypto, hardware or NOK - choosen by remaining members) 
+  * One equal share of eventual common holdings in cryptocurrencies
 * Means of production (GPUs and all other hardware) belong to Hanafjedle Cryptominers
